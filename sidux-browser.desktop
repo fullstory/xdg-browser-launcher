@@ -1,0 +1,7 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=sidux-browser
+Exec=x-www-browser %U
+Comment=Generic Web Browser relying on x-www-browser
+Icon=sidux-browser
