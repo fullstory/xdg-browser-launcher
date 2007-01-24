@@ -1,9 +1,5 @@
-sidux-browser (0.0.2) UNRELEASED; urgency=low
+sidux-browser (0.0.2) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Kel Modderman ]
   * Reprioritise Depends: field, put konqueror before iceweasel.
   * Use epiphany-browser as (x-)www-broswer candidate, rather than a
     "multi-platform clone of Boulder Dash".
