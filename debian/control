@@ -7,7 +7,7 @@ Standards-Version: 3.7.2
 
 Package: sidux-browser
 Architecture: all
-Depends: konqueror | iceweasel | epiphany | www-browser
+Depends: konqueror | iceweasel | epiphany-browser | www-browser
 Description: abstraction for generic x-www-browser
  Provides sidux icons and desktop files to use x-www-browser as generic 
  browser in menus.
