@@ -1,8 +1,8 @@
-sidux-browser (0.0.4) UNRELEASED; urgency=low
+sidux-browser (0.0.4) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * don't ship the *.xcf as part of the binary package, d'oh.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 31 Mar 2007 04:32:47 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 06 May 2007 16:15:41 +0200
 
 sidux-browser (0.0.3) unstable; urgency=low
 
