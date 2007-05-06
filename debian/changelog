@@ -1,3 +1,9 @@
+sidux-browser (0.0.5) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 06 May 2007 16:17:06 +0200
+
 sidux-browser (0.0.4) unstable; urgency=low
 
   * don't ship the *.xcf as part of the binary package, d'oh.
