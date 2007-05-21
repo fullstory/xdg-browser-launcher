@@ -1,8 +1,16 @@
 sidux-browser (0.0.5) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 06 May 2007 16:17:06 +0200
+  [ Bernard Gray ]
+  * icon updated to "Gear" 
+  * delete two planets icon source
+  * add "Gear" source
+  * update copyright to allow multiple art contributors
+  * add "Gear" copyright/license information
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Mon, 21 May 2007 10:04:05 +1000
 
 sidux-browser (0.0.4) unstable; urgency=low
 

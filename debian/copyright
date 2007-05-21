@@ -6,7 +6,16 @@ It was downloaded from http://sidux.com
 Upstream Author: by Stefan Lippers-Hollmann <s.l-h@gmx.de>
 
 Copyright: Stefan Lippers-Hollmann <s.l-h@gmx.de>
-           Cathbard
+
+
+The following artwork has been contributed to this package:
+	Two Planets icon (chaos 2007-01 release)
+	Copyright: Cathbard
+	License: GPL - see /usr/share/common-licenses/GPL
+
+	Gear icon (tartaros 2007-02 release and later)
+	Copyright: (C) 2007 Bernard Gray
+	License: GPLv2 or later - see /usr/share/common-licenses/GPL
 
 License:
     Redistribution and use in source and binary forms, with or without
@@ -26,8 +35,4 @@ License:
 
 On Debian systems, the complete text of the BSD License can be 
 found in `/usr/share/common-licenses/BSD'.
-
-
-The Artwork is (C) 2007, Cathbard and is licensed under the GPL, 
-see `/usr/share/common-licenses/GPL'.
 
