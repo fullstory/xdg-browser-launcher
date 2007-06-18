@@ -2,3 +2,9 @@
   
 include /usr/share/cdbs/1/rules/debhelper.mk
 
+install/sidux-browser::
+	mkdir -p debian/sidux-browser/usr/share/pixmaps
+	convert icons/hicolor/32x32/apps/sidux-browser.png \
+		debian/sidux-browser/usr/share/pixmaps/sidux-browser.xpm
+	convert icons/hicolor/16x16/apps/sidux-browser.png \
+		debian/sidux-browser/usr/share/pixmaps/sidux-browser-16.xpm

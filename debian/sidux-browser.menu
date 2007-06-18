@@ -1,0 +1,7 @@
+?package(sidux-browser):needs="X11" \
+	section="Apps/Net" \
+	hints="sidux,Net" \
+	title="sidux-browser" \
+	icon32x32="/usr/share/pixmaps/sidux-browser.xpm" \
+	icon16x16="/usr/share/pixmaps/sidux-browser-16.xpm" \
+	command="x-www-browser"
