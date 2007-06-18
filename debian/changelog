@@ -1,3 +1,9 @@
+sidux-browser (0.0.7) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 18 Jun 2007 17:11:01 +0200
+
 sidux-browser (0.0.6) unstable; urgency=low
 
   * Add debian menu entry. Build-Depend on imagemagick.
