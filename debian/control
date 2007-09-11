@@ -4,6 +4,8 @@ Priority: extra
 Maintainer: Stefan Lippers-Hollmann <s.l-h@gmx.de>
 Build-Depends: cdbs, debhelper (>= 5), imagemagick
 Standards-Version: 3.7.2
+XS-Vcs-Svn: svn://svn.berlios.de/fullstory/sidux-browser/trunk
+XS-Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-browser/trunk/
 
 Package: sidux-browser
 Architecture: all
