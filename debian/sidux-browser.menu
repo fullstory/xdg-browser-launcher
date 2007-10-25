@@ -1,5 +1,5 @@
 ?package(sidux-browser):needs="X11" \
-	section="Apps/Net" \
+	section="Applications/Network/Web Browsing" \
 	hints="sidux,Net" \
 	title="sidux-browser" \
 	icon32x32="/usr/share/pixmaps/sidux-browser.xpm" \

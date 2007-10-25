@@ -3,8 +3,9 @@ sidux-browser (0.0.8) UNRELEASED; urgency=low
   * NOT RELEASED YET
   * add VCS control headers.
   * update syntax for Vcs headers in debian/control
+  * Update debian menu section as per new subpolicy.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 07 Oct 2007 14:48:14 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 25 Oct 2007 22:12:05 +1000
 
 sidux-browser (0.0.7) unstable; urgency=low
 
