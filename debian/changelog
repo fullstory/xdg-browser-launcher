@@ -1,8 +1,9 @@
 sidux-browser (0.0.9) UNRELEASED; urgency=low
 
   * NOT RELEASED YET
+  * update to Standards-Version 3.7.3, no changes necessary.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 25 Oct 2007 18:17:24 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 03 Dec 2007 14:12:43 +0100
 
 sidux-browser (0.0.8) unstable; urgency=low
 
