@@ -1,3 +1,9 @@
+sidux-browser (0.1.1) unstable; urgency=low
+
+  * sidux-browser.png shouldn't be executable.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 08 Jan 2008 19:50:18 +0100
+
 sidux-browser (0.1.0) unstable; urgency=low
 
   * drop bogus dependency on sidux-xdg.
