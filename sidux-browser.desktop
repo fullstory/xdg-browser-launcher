@@ -7,4 +7,4 @@ Exec=x-www-browser %U
 Comment=Generic Web Browser relying on x-www-browser
 Comment[ru]=Веб-браузер на базе x-www-browser
 Icon=sidux-browser
-Categories=Application;Network
+Categories=Application;Network;
