@@ -1,10 +1,9 @@
 [Desktop Entry]
 Encoding=UTF-8
 Type=Application
-Name=sidux-browser
-Name[ru]=sidux-браузер
 Exec=x-www-browser %U
-Comment=Generic Web Browser relying on x-www-browser
-Comment[ru]=Веб-браузер на базе x-www-browser
 Icon=sidux-browser
+Name=sidux-browser
+GenericName=Generic Web Browser
+GenericName[ru]=Веб-браузер
 Categories=Application;Network;
