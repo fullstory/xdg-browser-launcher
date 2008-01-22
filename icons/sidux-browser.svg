@@ -25,6 +25,13 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_z="700 : 600 : 1"
        inkscape:persp3d-origin="300 : 400 : 1"
+       id="perspective999" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-50 : 600 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="700 : 600 : 1"
+       inkscape:persp3d-origin="300 : 400 : 1"
        id="perspective1001" />
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
@@ -329,21 +336,6 @@
          stdDeviation="1.5079688"
          id="feGaussianBlur7578" />
     </filter>
-    <mask
-       maskUnits="userSpaceOnUse"
-       id="mask2528">
-      <text
-         transform="matrix(1.1319012,0.2063073,7.9134205e-3,0.8849117,0,0)"
-         id="text2530"
-         y="82.389503"
-         x="15.337832"
-         style="font-size:189.72338867px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Sidux;-inkscape-font-specification:Sidux Bold"
-         xml:space="preserve"><tspan
-           y="82.389503"
-           x="15.337832"
-           id="tspan2532"
-           sodipodi:role="line">s</tspan></text>
-    </mask>
     <inkscape:perspective
        id="perspective58693"
        inkscape:persp3d-origin="300 : 400 : 1"
@@ -3154,6 +3146,14 @@
        y1="-3.0905473"
        x2="51.625942"
        y2="35.567139" />
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask3380">
+      <path
+         style="font-size:182.7288208px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;font-family:Sidux;-inkscape-font-specification:Sidux Bold"
+         d="M 19.522004,57.522879 L 19.675952,74.738007 C 19.685725,75.83103 20.389661,76.504954 21.787763,76.759781 L 92.042279,89.564803 C 96.935549,90.456681 100.91182,90.25386 103.97111,88.956355 C 107.02924,87.549519 109.38549,85.687376 111.03984,83.369919 C 114.07451,79.339834 115.56892,74.756191 115.52308,69.618979 C 115.4702,63.716663 114.79756,58.73804 113.50515,54.683096 C 112.21256,50.628194 110.29825,47.278367 107.76221,44.633603 C 105.22502,41.8796 101.92482,39.641224 97.86162,37.91847 C 93.938068,36.221275 89.180135,34.863006 83.587807,33.84366 L 55.276285,28.683427 C 48.984805,27.536757 45.819535,24.777353 45.780465,20.405207 C 45.743294,16.251776 48.870444,14.748391 55.161924,15.895048 L 108.42953,25.603931 C 109.82753,25.858807 110.5217,25.439709 110.51201,24.346635 L 110.35953,7.2954638 C 110.34869,6.0932076 109.64426,5.3646321 108.24626,5.1097351 L 61.899246,-3.3377571 C 54.489281,-4.6882559 48.201259,-5.4524152 43.035162,-5.6302373 C 32.561128,-6.2297242 25.815539,-3.5307484 22.798375,2.4666967 C 21.15193,5.6586517 20.353635,10.0418 20.403487,15.616155 C 20.475816,23.704584 22.628678,30.317052 26.86208,35.45358 C 31.65959,41.238632 38.88179,45.010287 48.528699,46.768558 L 80.615091,52.616822 C 86.487042,53.687115 89.442597,56.408295 89.481767,60.78037 C 89.528613,66.026894 86.616065,68.115014 80.744114,67.044736 L 21.604492,56.265583 C 20.206389,56.010776 19.512228,56.429875 19.522004,57.522879"
+         id="path3382" />
+    </mask>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -3273,7 +3273,7 @@
        id="g7153"
        transform="matrix(0.8470777,-0.1999234,-7.5750857e-3,1.096876,-8.966547,23.689699)"
        clip-path="none"
-       mask="url(#mask2528)">
+       mask="url(#mask3380)">
       <rect
          transform="matrix(0.9846538,0.174519,1.1078322e-2,0.9999386,0,0)"
          inkscape:r_cy="true"
