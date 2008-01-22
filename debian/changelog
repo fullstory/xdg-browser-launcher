@@ -1,12 +1,12 @@
-sidux-browser (0.1.4) UNRELEASED; urgency=low
-
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
+sidux-browser (0.1.4) unstable; urgency=low
 
   [ Bernard Gray ]
   * update sidux browser icon, new look, no text objects
 
- -- Bernard Gray <bernard.gray@gmail.com>  Tue, 22 Jan 2008 22:57:47 +1100
+  [ Stefan Lippers-Hollmann ]
+  * refresh binary icons based on new svg source.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 22 Jan 2008 13:04:40 +0100
 
 sidux-browser (0.1.3) unstable; urgency=low
 
