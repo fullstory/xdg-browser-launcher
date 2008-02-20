@@ -1,3 +1,9 @@
+sidux-browser (0.1.7) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 21 Feb 2008 00:46:47 +0100
+
 sidux-browser (0.1.6) unstable; urgency=low
 
   * appease lintian and write (C) as © in debian/copyright.
