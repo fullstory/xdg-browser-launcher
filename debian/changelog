@@ -1,3 +1,9 @@
+sidux-browser (0.1.8) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 24 Apr 2008 12:13:44 +0200
+
 sidux-browser (0.1.7) unstable; urgency=low
 
   * switch from cdbs to the new dh implementation of debhelper 7.0.0.
