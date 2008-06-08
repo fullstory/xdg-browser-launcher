@@ -1,8 +1,8 @@
-sidux-browser (0.1.8) UNRELEASED; urgency=low
+sidux-browser (0.1.8) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * bump standards version to 3.8.0, no changes necessary.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 24 Apr 2008 12:13:44 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 08 Jun 2008 19:20:12 +0200
 
 sidux-browser (0.1.7) unstable; urgency=low
 
