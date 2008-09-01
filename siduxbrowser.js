@@ -1,6 +1,6 @@
 // Set default homepage
 //
-pref("browser.startup.homepage", "http://sidux.com/");
+pref("browser.startup.homepage", "file:///usr/share/sidux-browser/siduxbrowser.properties");
 
 // Override default layout.css.dpi value
 //
@@ -20,12 +20,12 @@ pref("layout.css.dpi", 0);
 // Set sane and readable default font selections
 //
 pref("font.name.sans-serif.x-western", "Bitstream Vera Sans");
-pref("font.name.serif.x-western", "Bitstream Vera Serif");
-pref("font.minimum-size.x-western", 12);
-pref("font.size.variable.x-western", 14);
+pref("font.name.serif.x-western",      "Bitstream Vera Serif");
+pref("font.minimum-size.x-western",    12);
+pref("font.size.variable.x-western",   14);
 
 // Some minor appearance tweaks
 //
 pref("browser.tabs.closeButtons", 3);
-pref("browser.tabs.tabMinWidth", 5);
-pref("browser.visited_color", "#336666");
+pref("browser.tabs.tabMinWidth",  5);
+pref("browser.visited_color",     "#336666");
