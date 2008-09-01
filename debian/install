@@ -2,4 +2,4 @@ sidux-browser.desktop	usr/share/applications/sidux/
 icons/sidux-browser.svg	usr/share/icons/hicolor/scalable/apps/
 icons/hicolor		usr/share/icons/
 icons/pixmaps		usr/share/
-siduxbrowser.*		usr/share/sidux-browser/
+sidux-browser.*		usr/share/sidux-browser/
