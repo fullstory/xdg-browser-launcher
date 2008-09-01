@@ -2,3 +2,4 @@ sidux-browser.desktop	usr/share/applications/sidux/
 icons/sidux-browser.svg	usr/share/icons/hicolor/scalable/apps/
 icons/hicolor		usr/share/icons/
 icons/pixmaps		usr/share/
+sidux.js                usr/share/iceweasel/defaults/preferences/

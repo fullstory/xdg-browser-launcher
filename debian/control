@@ -12,4 +12,4 @@ Architecture: all
 Depends: konqueror | iceweasel | epiphany-browser | www-browser
 Description: abstraction for generic x-www-browser
  Provides sidux icons and desktop files to use x-www-browser as generic 
- browser in menus.
+ browser in menus. Also provide custom iceweasel defaults.
