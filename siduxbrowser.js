@@ -1,4 +1,5 @@
 // Set default homepage
+// This must be done via very strange method: http://bugs.debian.org/425961
 //
 pref("browser.startup.homepage", "file:///usr/share/sidux-browser/siduxbrowser.properties");
 
