@@ -1,8 +1,10 @@
 sidux-browser (0.1.9) UNRELEASED; urgency=low
 
   * Provide iceweasel defaults.
+    - install java script config to /usr/share/sidux-browser/ with symlink
+      at /etc/iceweasel/pref/ pointing to it to override default settings
 
- -- Kel Modderman <kel@otaku42.de>  Tue, 02 Sep 2008 01:20:05 +1000
+ -- Kel Modderman <kel@otaku42.de>  Tue, 02 Sep 2008 01:28:39 +1000
 
 sidux-browser (0.1.8) unstable; urgency=low
 
