@@ -20,10 +20,12 @@ pref("layout.css.dpi", 0);
 
 // Set sane and readable default font selections
 //
-pref("font.name.sans-serif.x-western", "Bitstream Vera Sans");
-pref("font.name.serif.x-western",      "Bitstream Vera Serif");
+pref("font.default.x-western",         "sans-serif");
+pref("font.name.monospace.x-western",  "DejaVu Sans Mono");
+pref("font.name.sans-serif.x-western", "DejaVu Sans");
+pref("font.name.serif.x-western",      "DejaVu Sans");
 pref("font.minimum-size.x-western",    12);
-pref("font.size.variable.x-western",   14);
+pref("font.size.variable.x-western",   12);
 
 // Some minor appearance tweaks
 //

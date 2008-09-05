@@ -1,8 +1,8 @@
 sidux-browser (0.1.10) UNRELEASED; urgency=low
 
-  * NOT RELEASED YET
+  * Change default font from Bitstream -> DejaVu 12pt.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 01 Sep 2008 23:16:33 +0200
+ -- Kel Modderman <kel@otaku42.de>  Fri, 05 Sep 2008 22:14:55 +1000
 
 sidux-browser (0.1.9) unstable; urgency=low
 
