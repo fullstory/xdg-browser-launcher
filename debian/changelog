@@ -1,4 +1,4 @@
-sidux-browser (0.1.10) UNRELEASED; urgency=low
+sidux-browser (0.1.10) unstable; urgency=low
 
   * Change default font from Bitstream -> DejaVu 12pt.
   * Add dependency on ttf-dejavu.
