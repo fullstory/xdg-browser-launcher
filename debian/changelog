@@ -1,3 +1,9 @@
+sidux-browser (0.1.11) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 06 Sep 2008 00:29:00 +0200
+
 sidux-browser (0.1.10) unstable; urgency=low
 
   * Change default font from Bitstream -> DejaVu 12pt.
