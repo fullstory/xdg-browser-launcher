@@ -6,11 +6,11 @@ pref("browser.startup.homepage", "file:///usr/share/sidux-browser/sidux-browser.
 // Override default layout.css.dpi value
 //
 // -1
-// Use the host system’s logical resolution or 96, whichever is greater,
+// Use the host system's logical resolution or 96, whichever is greater,
 // for interpreting dimensions specified in absolute units. (Default)
 //
 // 0
-// Use the host system’s logical resolution for interpreting dimensions
+// Use the host system's logical resolution for interpreting dimensions
 // specified in absolute units.
 //
 // >= 1 (eg. 96, 120)
