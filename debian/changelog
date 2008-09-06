@@ -2,8 +2,9 @@ sidux-browser (0.1.11) UNRELEASED; urgency=low
 
   * NOT RELEASED YET
   * Cleanup comments in sidux-browser.js.
+  * Add some info about the browser tab settings.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 07 Sep 2008 07:33:43 +1000
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 07 Sep 2008 07:53:01 +1000
 
 sidux-browser (0.1.10) unstable; urgency=low
 

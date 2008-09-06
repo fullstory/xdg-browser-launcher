@@ -27,8 +27,22 @@ pref("font.name.serif.x-western",      "DejaVu Sans");
 pref("font.minimum-size.x-western",    12);
 pref("font.size.variable.x-western",   12);
 
-// Some minor appearance tweaks
+// Override browser.tabs.closeButtons
+//
+// 0
+// Display a close button on the active tab only
+//
+// 1
+// Display close buttons on all tabs (Default)
+//
+// 2
+// Don’t display any close buttons
+//
+// 3
+// Display a single close button at the end of the tab strip (Firefox 1.x behavior)
 //
 pref("browser.tabs.closeButtons", 3);
 pref("browser.tabs.tabMinWidth",  5);
+
+// Something other than purple for visited links
 pref("browser.visited_color",     "#336666");
