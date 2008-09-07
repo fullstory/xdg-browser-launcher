@@ -1,6 +1,5 @@
-sidux-browser (0.1.11) UNRELEASED; urgency=low
+sidux-browser (0.1.11) unstable; urgency=low
 
-  * NOT RELEASED YET
   * Cleanup comments in sidux-browser.js.
   * Add some info about the browser tab settings.
 
