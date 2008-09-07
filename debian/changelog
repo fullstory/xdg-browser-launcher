@@ -1,3 +1,9 @@
+sidux-browser (0.1.12) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 07 Sep 2008 18:34:11 +0200
+
 sidux-browser (0.1.11) unstable; urgency=low
 
   * Cleanup comments in sidux-browser.js.
