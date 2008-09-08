@@ -2,8 +2,9 @@ sidux-browser (0.1.12) UNRELEASED; urgency=low
 
   * NOT RELEASED YET
   * Do not explicitly choose a font, let the system do that.
+  * Remove ttf-dejavu from dependencies, not required.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 08 Sep 2008 20:50:18 +1000
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 08 Sep 2008 21:02:48 +1000
 
 sidux-browser (0.1.11) unstable; urgency=low
 
