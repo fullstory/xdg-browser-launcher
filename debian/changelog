@@ -1,3 +1,9 @@
+sidux-browser (0.1.13) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 08 Sep 2008 23:36:29 +0200
+
 sidux-browser (0.1.12) unstable; urgency=low
 
   * Do not explicitly choose a font, let the system do that.
