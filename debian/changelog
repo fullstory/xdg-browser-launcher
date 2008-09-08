@@ -1,6 +1,5 @@
-sidux-browser (0.1.12) UNRELEASED; urgency=low
+sidux-browser (0.1.12) unstable; urgency=low
 
-  * NOT RELEASED YET
   * Do not explicitly choose a font, let the system do that.
   * Remove ttf-dejavu from dependencies, not required.
 
