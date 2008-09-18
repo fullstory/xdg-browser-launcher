@@ -1,9 +1,5 @@
-sidux-browser (0.1.13) UNRELEASED; urgency=low
+sidux-browser (0.1.13) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Kel Modderman ]
   * Set minimum font size default to 9 as per viniosity advice.
 
  -- Kel Modderman <kel@otaku42.de>  Fri, 19 Sep 2008 07:03:46 +1000
