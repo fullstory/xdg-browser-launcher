@@ -1,8 +1,12 @@
 sidux-browser (0.1.13) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 08 Sep 2008 23:36:29 +0200
+  [ Kel Modderman ]
+  * Set minimum font size default to 9 as per viniosity advice.
+
+ -- Kel Modderman <kel@otaku42.de>  Fri, 19 Sep 2008 07:03:46 +1000
 
 sidux-browser (0.1.12) unstable; urgency=low
 

@@ -20,7 +20,7 @@ pref("layout.css.dpi", 0);
 
 // Set sane font sizes
 //
-pref("font.minimum-size.x-western",    12);
+pref("font.minimum-size.x-western",    9);
 pref("font.size.variable.x-western",   12);
 
 // Override browser.tabs.closeButtons
