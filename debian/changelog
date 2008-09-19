@@ -1,8 +1,12 @@
 sidux-browser (0.1.14) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 18 Sep 2008 23:40:08 +0200
+  [ Kel Modderman ]
+  * Bump iceweasel minimum font defaults up to 11, 9 was a tad tiny.
+
+ -- Kel Modderman <kel@otaku42.de>  Fri, 19 Sep 2008 14:59:57 +1000
 
 sidux-browser (0.1.13) unstable; urgency=low
 
