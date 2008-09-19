@@ -1,9 +1,5 @@
-sidux-browser (0.1.14) UNRELEASED; urgency=low
+sidux-browser (0.1.14) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Kel Modderman ]
   * Bump iceweasel minimum font defaults up to 11, 9 was a tad tiny.
 
  -- Kel Modderman <kel@otaku42.de>  Fri, 19 Sep 2008 14:59:57 +1000
