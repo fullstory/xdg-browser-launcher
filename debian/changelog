@@ -1,8 +1,13 @@
 sidux-browser (0.1.15) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 19 Sep 2008 22:51:25 +0200
+  [ Kel Modderman ]
+  * Workaround #495381 by overriding xulrunners default
+    general.useragent.locale pref.
+
+ -- Kel Modderman <kel@otaku42.de>  Wed, 08 Oct 2008 22:17:27 +1000
 
 sidux-browser (0.1.14) unstable; urgency=low
 

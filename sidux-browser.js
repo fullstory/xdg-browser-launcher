@@ -42,3 +42,6 @@ pref("browser.tabs.tabMinWidth",  5);
 
 // Something other than purple for visited links
 pref("browser.visited_color",     "#336666");
+
+// set useragent locale string - temporal workaround for #495381
+pref("general.useragent.locale", "chrome://global/locale/intl.properties");
