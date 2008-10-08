@@ -1,9 +1,5 @@
-sidux-browser (0.1.15) UNRELEASED; urgency=low
+sidux-browser (0.1.15) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Kel Modderman ]
   * Workaround #495381 by overriding xulrunners default
     general.useragent.locale pref.
 
