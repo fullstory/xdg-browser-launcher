@@ -1,8 +1,13 @@
 sidux-browser (0.1.16) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 08 Oct 2008 23:19:38 +0200
+  [ Kel Modderman ]
+  * #495381 is pending fix, general.useragent.locale override shelf life
+    has come.
+
+ -- Kel Modderman <kel@otaku42.de>  Mon, 20 Oct 2008 21:09:13 +1000
 
 sidux-browser (0.1.15) unstable; urgency=low
 
