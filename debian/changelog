@@ -1,9 +1,5 @@
-sidux-browser (0.1.16) UNRELEASED; urgency=low
+sidux-browser (0.1.16) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Kel Modderman ]
   * #495381 is pending fix, general.useragent.locale override shelf life
     has come.
 
