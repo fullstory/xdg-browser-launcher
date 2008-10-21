@@ -1,3 +1,9 @@
+sidux-browser (0.1.17) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 21 Oct 2008 21:01:17 +0200
+
 sidux-browser (0.1.16) unstable; urgency=low
 
   * #495381 is pending fix, general.useragent.locale override shelf life
