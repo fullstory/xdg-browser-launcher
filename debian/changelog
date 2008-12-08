@@ -1,9 +1,8 @@
-sidux-browser (0.1.17) UNRELEASED; urgency=low
+sidux-browser (0.1.17) unstable; urgency=low
 
-  * NOT RELEASED YET
   * make lintian happy and depend on ${misc:Depends}.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 08 Dec 2008 03:02:45 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 08 Dec 2008 23:47:58 +0100
 
 sidux-browser (0.1.16) unstable; urgency=low
 
