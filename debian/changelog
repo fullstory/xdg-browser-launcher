@@ -1,8 +1,8 @@
-sidux-browser (0.1.18) UNRELEASED; urgency=low
+sidux-browser (0.1.18) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * fix desktop-entry-contains-encoding-key.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 08 Dec 2008 23:49:06 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 20 Feb 2009 17:51:39 +0100
 
 sidux-browser (0.1.17) unstable; urgency=low
 
