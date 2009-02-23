@@ -1,8 +1,12 @@
 sidux-browser (0.1.19) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 20 Feb 2009 17:52:39 +0100
+  [ Bernard Gray ]
+  * fix copyright to name correct icon svg
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Mon, 23 Feb 2009 22:41:27 +1100
 
 sidux-browser (0.1.18) unstable; urgency=low
 
