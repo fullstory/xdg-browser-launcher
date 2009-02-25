@@ -1,9 +1,5 @@
-sidux-browser (0.1.19) UNRELEASED; urgency=low
+sidux-browser (0.1.19) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * fix copyright to name correct icon svg
 
  -- Bernard Gray <bernard.gray@gmail.com>  Mon, 23 Feb 2009 22:41:27 +1100
