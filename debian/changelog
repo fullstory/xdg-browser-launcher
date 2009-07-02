@@ -4,9 +4,12 @@ sidux-browser (0.1.20) UNRELEASED; urgency=low
   * NOT RELEASED YET
 
   [ Bernard Gray ]
-  * update art for 2009-02 -- do not release
+  * update art for 2009-02
+  * convert all bitmaps to new svg art
+  * update copyright for new art -- do not release
 
- -- Bernard Gray <bernard.gray@gmail.com>  Thu, 02 Jul 2009 19:00:35 +1000
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Thu, 02 Jul 2009 20:55:31 +1000
 
 sidux-browser (0.1.19) unstable; urgency=low
 
