@@ -1,8 +1,12 @@
 sidux-browser (0.1.20) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 25 Feb 2009 22:40:34 +0100
+  [ Bernard Gray ]
+  * update art for 2009-02 -- do not release
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Thu, 02 Jul 2009 19:00:35 +1000
 
 sidux-browser (0.1.19) unstable; urgency=low
 
