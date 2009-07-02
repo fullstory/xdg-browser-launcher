@@ -3,14 +3,14 @@ Section: web
 Priority: extra
 Maintainer: Stefan Lippers-Hollmann <s.l-h@gmx.de>
 Build-Depends: debhelper (>= 7)
-Standards-Version: 3.8.0
+Standards-Version: 3.8.2
 Vcs-Svn: svn://svn.berlios.de/fullstory/sidux-browser/trunk
 Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-browser/trunk/
 
 Package: sidux-browser
 Architecture: all
 Depends: ${misc:Depends},
-         konqueror | iceweasel | epiphany-browser | www-browser
+ konqueror | iceweasel | epiphany-browser | www-browser
 Description: abstraction for generic x-www-browser
  Provides sidux icons and desktop files to use x-www-browser as generic 
  browser in menus. Also provide custom iceweasel defaults.

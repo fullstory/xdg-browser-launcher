@@ -1,16 +1,16 @@
-sidux-browser (0.1.20) UNRELEASED; urgency=low
-
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
+sidux-browser (0.1.20) unstable; urgency=low
 
   [ Bernard Gray ]
   * update art for 2009-02
   * convert all bitmaps to new svg art
   * update copyright for new art 
   * forgot to include copyright
-  * ready for release
 
- -- Bernard Gray <bernard.gray@gmail.com>  Thu, 02 Jul 2009 21:48:33 +1000
+  [ Stefan Lippers-Hollmann ]
+  * generate binary artwork.
+  * bump standards version to 3.8.2, no changes necessary.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 02 Jul 2009 23:43:59 +0200
 
 sidux-browser (0.1.19) unstable; urgency=low
 
