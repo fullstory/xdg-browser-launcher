@@ -68,6 +68,12 @@ License: CC-ASA-3.0 | LGPL-2+
   The exception in section 6 of the GNU Lesser General Public License covers
   the use of elements of this art library in a GUI.
 
+The complete text of the GNU General Public License, version 2, can be found at:
+    http://www.gnu.org/licenses/gpl-2.0.txt
+
+The complete text of the GNU Library General Public License, can be found at:
+    http://www.gnu.org/licenses/old-licenses/library.html
+
 On Debian systems, the complete text of the BSD License can be 
 found in `/usr/share/common-licenses/BSD'.
 
