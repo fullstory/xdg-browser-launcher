@@ -1,8 +1,11 @@
-sidux-browser (0.1.21) UNRELEASED; urgency=low
+sidux-browser (0.1.21) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * switch to dpkg-source 3.0 (native) format.
+  * bump standards version to 3.8.4, no changes necessary.
+  * update copyright years.
+  * refresh generated icons.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 02 Jul 2009 23:44:42 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 26 Apr 2010 01:13:48 +0200
 
 sidux-browser (0.1.20) unstable; urgency=low
 
