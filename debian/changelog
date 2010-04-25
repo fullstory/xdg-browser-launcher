@@ -1,3 +1,9 @@
+sidux-browser (0.1.22) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 26 Apr 2010 01:16:28 +0200
+
 sidux-browser (0.1.21) unstable; urgency=low
 
   * switch to dpkg-source 3.0 (native) format.
