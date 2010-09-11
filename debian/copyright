@@ -74,8 +74,5 @@ The complete text of the GNU General Public License, version 2, can be found at:
 The complete text of the GNU Library General Public License, can be found at:
     http://www.gnu.org/licenses/old-licenses/library.html
 
-On Debian systems, the complete text of the BSD License can be 
-found in `/usr/share/common-licenses/BSD'.
-
 On Debian systems, the complete text of the GNU Lesser General Public License,
 version 2, can be found in `/usr/share/common-licenses/LGPL-2'.

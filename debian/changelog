@@ -3,8 +3,11 @@ sidux-browser (0.1.22) unstable; urgency=low
   * bump standards version to 3.9.1, no changes necessary.
   * elaborate long description a bit further, to make lintian happy.
   * regenerate icons.
+  * don't reference /usr/share/common-licenses/BSD anymore and rely on the full
+    license copy in debian/copright, this fixes 
+    copyright-refers-to-deprecated-bsd-license-file.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 04 Aug 2010 03:30:07 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 04 Aug 2010 03:33:10 +0200
 
 sidux-browser (0.1.21) unstable; urgency=low
 
