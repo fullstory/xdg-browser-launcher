@@ -3,7 +3,7 @@ Section: web
 Priority: extra
 Maintainer: Stefan Lippers-Hollmann <s.l-h@gmx.de>
 Build-Depends: debhelper (>= 7)
-Standards-Version: 3.8.4
+Standards-Version: 3.9.1
 Vcs-Svn: svn://svn.berlios.de/fullstory/sidux-browser/trunk
 Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-browser/trunk/
 
@@ -14,3 +14,5 @@ Depends: ${misc:Depends},
 Description: abstraction for generic x-www-browser
  Provides sidux icons and desktop files to use x-www-browser as generic 
  browser in menus. Also provide custom iceweasel defaults.
+ .
+ This is equivalent to using 'x-www-browser' directly.

@@ -1,8 +1,10 @@
-sidux-browser (0.1.22) UNRELEASED; urgency=low
+sidux-browser (0.1.22) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * bump standards version to 3.9.1, no changes necessary.
+  * elaborate long description a bit further, to make lintian happy.
+  * regenerate icons.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 26 Apr 2010 01:16:28 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 04 Aug 2010 03:30:07 +0200
 
 sidux-browser (0.1.21) unstable; urgency=low
 

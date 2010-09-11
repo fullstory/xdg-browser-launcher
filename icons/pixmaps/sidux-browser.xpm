@@ -1,7 +1,7 @@
 /* XPM */
 static char *sidux_browser[] = {
 /* columns rows colors chars-per-pixel */
-"32 32 256 2",
+"32 32 256 2 ",
 "   c #161E77",
 ".  c #1E257B",
 "X  c #232B7E",
