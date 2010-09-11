@@ -30,4 +30,4 @@ Description: abstraction for generic x-www-browser
  .
  This is equivalent to using 'x-www-browser' directly.
  .
- transitional metapackage to pull in sidux-browser
+ transitional metapackage to pull in xdg-browser-launcher
