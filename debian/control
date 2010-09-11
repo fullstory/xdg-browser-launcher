@@ -1,11 +1,11 @@
-Source: sidux-browser
+Source: xdg-browser-launcher
 Section: web
 Priority: extra
 Maintainer: Stefan Lippers-Hollmann <s.l-h@gmx.de>
 Build-Depends: debhelper (>= 7.9.3)
 Standards-Version: 3.9.1
-Vcs-Svn: svn://svn.berlios.de/fullstory/sidux-browser/trunk
-Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-browser/trunk/
+Vcs-Svn: svn://svn.berlios.de/fullstory/xdg-browser-launcher/trunk
+Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/xdg-browser-launcher/trunk/
 
 Package: xdg-browser-launcher
 Architecture: all
@@ -14,8 +14,8 @@ Depends: ${misc:Depends},
 Breaks: sidux-browser (<< 0.2)
 Replaces: sidux-browser (<< 0.2)
 Description: abstraction for generic x-www-browser
- Provides sidux icons and desktop files to use x-www-browser as generic 
- browser in menus. Also provide custom iceweasel defaults.
+ Provides icons and desktop files to use x-www-browser as generic  browser in
+ menus. Also provide custom iceweasel defaults.
  .
  This is equivalent to using 'x-www-browser' directly.
 
@@ -25,8 +25,8 @@ Section: oldlibs
 Depends: ${misc:Depends},
  xdg-browser-launcher
 Description: abstraction for generic x-www-browser
- Provides sidux icons and desktop files to use x-www-browser as generic 
- browser in menus. Also provide custom iceweasel defaults.
+ Provides icons and desktop files to use x-www-browser as generic browser in
+ menus. Also provide custom iceweasel defaults.
  .
  This is equivalent to using 'x-www-browser' directly.
  .
