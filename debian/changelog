@@ -1,8 +1,8 @@
-xdg-browser-launcher (0.2.1) UNRELEASED; urgency=low
+xdg-browser-launcher (0.2.1) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * adapt for aptosid.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 21 Aug 2010 23:20:11 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 26 Aug 2010 02:02:07 +0200
 
 xdg-browser-launcher (0.2.0) unstable; urgency=low
 
