@@ -1,7 +1,7 @@
 // Set default homepage
 // This must be done via very strange method: http://bugs.debian.org/425961
 //
-pref("browser.startup.homepage", "file:///usr/share/sidux-browser/sidux-browser.properties");
+pref("browser.startup.homepage", "file:///usr/share/xdg-browser-launcher/xdg-browser-launcher.properties");
 
 // Override default layout.css.dpi value
 //

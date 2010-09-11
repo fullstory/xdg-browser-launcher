@@ -6,7 +6,7 @@ It was downloaded from http://developer.berlios.de/projects/fullstory/
 Files: *
 Copyright: © 2007-2010 Stefan Lippers-Hollmann <s.l-h@gmx.de>
 License: BSD-2
-  Redistribution and use in source and binary forms of the sidux-browser
+  Redistribution and use in source and binary forms of the xdg-browser-launcher
   package, with or without modification, are permitted under the terms of
   the two clause BSD License.
 
@@ -37,7 +37,7 @@ Copyright: © 2008 Bernard Gray <bernard.gray@gmail.com>
            © 2007 Riccardo Iaconelli <riccardo@oxygen-icons.org>
            © 2007 David Miller <miller@oxygen-icons.org>
 License: CC-ASA-3.0 | LGPL-2+
-  sidux-browser.svg also includes elements from The Oxygen Icon Theme.
+  xdg-browser-launcher.svg also includes elements from The Oxygen Icon Theme.
   Licensed under the Creative Common Attribution-ShareAlike 3.0
   license, as found here:
 

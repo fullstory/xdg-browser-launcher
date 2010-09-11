@@ -1,8 +1,8 @@
-sidux-browser (0.1.24) UNRELEASED; urgency=low
+xdg-browser-launcher (0.2.0) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * rename to xdg-browser-launcher.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 08 Aug 2010 05:19:13 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 21 Aug 2010 23:14:31 +0200
 
 sidux-browser (0.1.23) unstable; urgency=low
 

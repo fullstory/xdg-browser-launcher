@@ -1,5 +1,5 @@
-sidux-browser.desktop	usr/share/applications/sidux/
-icons/sidux-browser.svg	usr/share/icons/hicolor/scalable/apps/
+xdg-browser-launcher.desktop	usr/share/applications/sidux/
+icons/xdg-browser-launcher.svg	usr/share/icons/hicolor/scalable/apps/
 icons/hicolor		usr/share/icons/
 icons/pixmaps		usr/share/
-sidux-browser.*		usr/share/sidux-browser/
+xdg-browser-launcher.*		usr/share/xdg-browser-launcher/
