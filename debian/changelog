@@ -1,8 +1,8 @@
-xdg-browser-launcher (0.2.2) UNRELEASED; urgency=low
+xdg-browser-launcher (0.2.2) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * fix x-un-i's mail address.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 26 Aug 2010 02:02:48 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 06 Oct 2010 15:13:56 +0200
 
 xdg-browser-launcher (0.2.1) unstable; urgency=low
 
@@ -201,7 +201,7 @@ sidux-browser (0.0.10) unstable; urgency=low
 
   * Translation thanks to RoEn
 
- -- Joaquim Boura <x-un-i@sidux.com>  Tue, 18 Dec 2007 13:24:25 +0100
+ -- Joaquim Boura <x-un-i@berlios.de>  Tue, 18 Dec 2007 13:24:25 +0100
 
 sidux-browser (0.0.9) unstable; urgency=low
 
