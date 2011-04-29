@@ -1,3 +1,9 @@
+xdg-browser-launcher (0.2.5) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 29 Apr 2011 05:11:32 +0200
+
 xdg-browser-launcher (0.2.4) unstable; urgency=low
 
   * bump standards version to 3.9.2, no changes necessary.
