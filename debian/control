@@ -3,9 +3,9 @@ Section: web
 Priority: extra
 Maintainer: Stefan Lippers-Hollmann <s.l-h@gmx.de>
 Build-Depends: debhelper (>= 9.20120115)
-Standards-Version: 3.9.4
-Vcs-Svn: svn://svn.berlios.de/fullstory/xdg-browser-launcher/trunk
-Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/xdg-browser-launcher/trunk/
+Standards-Version: 3.9.5
+Vcs-git: git://github.com/fullstory/xdg-browser-launcher.git
+Vcs-Browser: https://github.com/fullstory/xdg-browser-launcher
 
 Package: xdg-browser-launcher
 Architecture: all
