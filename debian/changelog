@@ -1,9 +1,9 @@
-xdg-browser-launcher (0.2.10) UNRELEASED; urgency=medium
+xdg-browser-launcher (0.2.10) unstable; urgency=medium
 
-  * NOT RELEASED YET
   * bump standards version to 3.9.6, no changes necessary.
+  * convert to machine readable copyright.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 14 Apr 2014 00:25:37 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 04 Jan 2015 01:00:57 +0100
 
 xdg-browser-launcher (0.2.9) unstable; urgency=low
 
