@@ -2,8 +2,9 @@ xdg-browser-launcher (0.2.10) unstable; urgency=medium
 
   * bump standards version to 3.9.6, no changes necessary.
   * convert to machine readable copyright.
+  * add lintian override for menu-command-not-in-package.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 04 Jan 2015 01:00:57 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 04 Jan 2015 01:04:35 +0100
 
 xdg-browser-launcher (0.2.9) unstable; urgency=low
 

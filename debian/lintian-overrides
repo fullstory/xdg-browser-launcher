@@ -1,0 +1,2 @@
+# this packages provides a desktop icon for (the external) x-www-browser
+xdg-browser-launcher: menu-command-not-in-package
