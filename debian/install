@@ -1,5 +1,4 @@
 xdg-browser-launcher.desktop	usr/share/applications/aptosid/
 icons/xdg-browser-launcher.svg	usr/share/icons/hicolor/scalable/apps/
-icons/hicolor		usr/share/icons/
-icons/pixmaps		usr/share/
+icons/hicolor			usr/share/icons/
 xdg-browser-launcher.*		usr/share/xdg-browser-launcher/
