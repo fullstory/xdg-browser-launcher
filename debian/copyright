@@ -10,7 +10,6 @@ License: ISC
 Files: debian/*
 Copyright: 2007-2015, Stefan Lippers-Hollmann <s.l-h@gmx.de>
 License: ISC
-  The Debian packaging information is licensed under the 2 clause BSD license.
 
 Files: icons/*
 Copyright: 2008, Bernard Gray <bernard.gray@gmail.com>
