@@ -1,8 +1,8 @@
-xdg-browser-launcher (0.2.14) UNRELEASED; urgency=medium
+xdg-browser-launcher (0.2.14) unstable; urgency=medium
 
-  * NOT RELEASED YET
+  * s/iceweasel/firefox/.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 26 Nov 2015 03:14:12 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 11 Mar 2016 21:09:17 +0100
 
 xdg-browser-launcher (0.2.13) unstable; urgency=medium
 
