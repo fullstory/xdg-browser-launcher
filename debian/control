@@ -10,7 +10,7 @@ Vcs-Browser: https://github.com/fullstory/xdg-browser-launcher
 Package: xdg-browser-launcher
 Architecture: all
 Depends: ${misc:Depends},
- firefox | qupzilla | konqueror | epiphany-browser | www-browser
+ firefox | firefox-esr | chromium | qupzilla | konqueror | epiphany-browser | www-browser
 Description: abstraction for generic x-www-browser
  Provides icons and desktop files to use x-www-browser as generic  browser in
  menus. Also provide custom firefox defaults.
