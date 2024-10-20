@@ -4,11 +4,11 @@ Upstream-Contact: Stefan Lippers-Hollmann <s.l-h@gmx.de>
 Source: https://github.com/fullstory/xdg-browser-launcher.git
 
 Files: *
-Copyright: 2007-2015, Stefan Lippers-Hollmann <s.l-h@gmx.de>
+Copyright: 2007-2024, Stefan Lippers-Hollmann <s.l-h@gmx.de>
 License: ISC
 
 Files: debian/*
-Copyright: 2007-2015, Stefan Lippers-Hollmann <s.l-h@gmx.de>
+Copyright: 2007-2024, Stefan Lippers-Hollmann <s.l-h@gmx.de>
 License: ISC
 
 Files: icons/*
