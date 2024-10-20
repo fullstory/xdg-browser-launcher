@@ -11,8 +11,9 @@ xdg-browser-launcher (0.2.15) unstable; urgency=medium
     - vcs-field-uses-insecure-uri Git git://github.com/...
     - cute-field Vcs-git vs Vcs-Git [debian/control:7]
   * bump standards version to 4.7.0, no changes necessary.
+  * refresh icons.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 20 Oct 2024 16:06:08 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 20 Oct 2024 16:07:36 +0200
 
 xdg-browser-launcher (0.2.14) unstable; urgency=medium
 
