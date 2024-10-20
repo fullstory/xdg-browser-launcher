@@ -5,7 +5,7 @@ Maintainer: Stefan Lippers-Hollmann <s.l-h@gmx.de>
 Rules-Requires-Root: no
 Build-Depends: debhelper-compat (= 13)
 Standards-Version: 4.7.0
-Vcs-Git: git://github.com/fullstory/xdg-browser-launcher.git
+Vcs-Git: https://github.com/fullstory/xdg-browser-launcher.git
 Vcs-Browser: https://github.com/fullstory/xdg-browser-launcher
 
 Package: xdg-browser-launcher
