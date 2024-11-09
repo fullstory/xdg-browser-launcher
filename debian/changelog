@@ -185,26 +185,26 @@ sidux-browser (0.1.16) unstable; urgency=low
   * #495381 is pending fix, general.useragent.locale override shelf life
     has come.
 
- -- Kel Modderman <kel@otaku42.de>  Mon, 20 Oct 2008 21:09:13 +1000
+ -- Kel Modderman <kelvmod@gmail.com>  Mon, 20 Oct 2008 21:09:13 +1000
 
 sidux-browser (0.1.15) unstable; urgency=low
 
   * Workaround #495381 by overriding xulrunners default
     general.useragent.locale pref.
 
- -- Kel Modderman <kel@otaku42.de>  Wed, 08 Oct 2008 22:17:27 +1000
+ -- Kel Modderman <kelvmod@gmail.com>  Wed, 08 Oct 2008 22:17:27 +1000
 
 sidux-browser (0.1.14) unstable; urgency=low
 
   * Bump iceweasel minimum font defaults up to 11, 9 was a tad tiny.
 
- -- Kel Modderman <kel@otaku42.de>  Fri, 19 Sep 2008 14:59:57 +1000
+ -- Kel Modderman <kelvmod@gmail.com>  Fri, 19 Sep 2008 14:59:57 +1000
 
 sidux-browser (0.1.13) unstable; urgency=low
 
   * Set minimum font size default to 9 as per viniosity advice.
 
- -- Kel Modderman <kel@otaku42.de>  Fri, 19 Sep 2008 07:03:46 +1000
+ -- Kel Modderman <kelvmod@gmail.com>  Fri, 19 Sep 2008 07:03:46 +1000
 
 sidux-browser (0.1.12) unstable; urgency=low
 
@@ -225,7 +225,7 @@ sidux-browser (0.1.10) unstable; urgency=low
   * Change default font from Bitstream -> DejaVu 12pt.
   * Add dependency on ttf-dejavu.
 
- -- Kel Modderman <kel@otaku42.de>  Fri, 05 Sep 2008 22:19:41 +1000
+ -- Kel Modderman <kelvmod@gmail.com>  Fri, 05 Sep 2008 22:19:41 +1000
 
 sidux-browser (0.1.9) unstable; urgency=low
 
@@ -233,7 +233,7 @@ sidux-browser (0.1.9) unstable; urgency=low
     - install java script config to /usr/share/sidux-browser/ with symlink
       at /etc/iceweasel/pref/ pointing to it to override default settings
 
- -- Kel Modderman <kel@otaku42.de>  Tue, 02 Sep 2008 01:28:39 +1000
+ -- Kel Modderman <kelvmod@gmail.com>  Tue, 02 Sep 2008 01:28:39 +1000
 
 sidux-browser (0.1.8) unstable; urgency=low
 
@@ -324,7 +324,7 @@ sidux-browser (0.0.8) unstable; urgency=low
   [ Kel Modderman ]
   * Update debian menu section as per new subpolicy.
 
- -- Kel Modderman <kel@otaku42.de>  Thu, 25 Oct 2007 22:12:05 +1000
+ -- Kel Modderman <kelvmod@gmail.com>  Thu, 25 Oct 2007 22:12:05 +1000
 
 sidux-browser (0.0.7) unstable; urgency=low
 
@@ -337,7 +337,7 @@ sidux-browser (0.0.6) unstable; urgency=low
 
   * Add debian menu entry. Build-Depend on imagemagick.
 
- -- Kel Modderman <kel@otaku42.de>  Mon, 18 Jun 2007 22:27:15 +1000
+ -- Kel Modderman <kelvmod@gmail.com>  Mon, 18 Jun 2007 22:27:15 +1000
 
 sidux-browser (0.0.5) unstable; urgency=low
 
@@ -377,7 +377,7 @@ sidux-browser (0.0.2) unstable; urgency=low
   * Use epiphany-browser as (x-)www-broswer candidate, rather than a
     "multi-platform clone of Boulder Dash".
 
- -- Kel Modderman <kel@otaku42.de>  Wed, 24 Jan 2007 15:19:17 +1000
+ -- Kel Modderman <kelvmod@gmail.com>  Wed, 24 Jan 2007 15:19:17 +1000
 
 sidux-browser (0.0.1) unstable; urgency=low
 
