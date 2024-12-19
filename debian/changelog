@@ -1,8 +1,9 @@
-xdg-browser-launcher (0.2.17) UNRELEASED; urgency=medium
+xdg-browser-launcher (0.2.17) unstable; urgency=medium
 
-  * NOT RELEASED YET
+  * refresh SVG graphics, shut up inkscape's migration from old versions.
+  * update inkscape calls to current calling conventions.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 09 Dec 2024 10:40:33 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 19 Dec 2024 03:48:21 +0100
 
 xdg-browser-launcher (0.2.16) unstable; urgency=medium
 

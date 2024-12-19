@@ -15,6 +15,7 @@ create-icons:
 		mkdir -p "icons/hicolor/$${i}x$${i}/apps" ; \
 		inkscape --export-width=$${i} \
 			 --export-height=$${i} \
-			 --export-png="$(CURDIR)/icons/hicolor/$${i}x$${i}/apps/xdg-browser-launcher.png" \
+			 --export-type="png" \
+			 --export-filename="$(CURDIR)/icons/hicolor/$${i}x$${i}/apps/xdg-browser-launcher.png" \
 				$(CURDIR)/icons/xdg-browser-launcher.svg ; \
 	done
