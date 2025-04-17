@@ -1,8 +1,8 @@
-xdg-browser-launcher (0.2.18) UNRELEASED; urgency=medium
+xdg-browser-launcher (0.2.18) unstable; urgency=medium
 
-  * NOT RELEASED YET
+  * drop qupzilla (removed from Debian).
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 19 Dec 2024 03:48:54 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 17 Apr 2025 02:49:40 +0200
 
 xdg-browser-launcher (0.2.17) unstable; urgency=medium
 
