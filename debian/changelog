@@ -1,8 +1,11 @@
 xdg-browser-launcher (0.2.18) unstable; urgency=medium
 
   * drop qupzilla (removed from Debian).
+  * don't consider konqueror to be a viable x-www-browser (at least in terms of
+    dependencies), it can't cope with the modern web and its security support
+    status is rather questionable.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 17 Apr 2025 02:49:40 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 17 Apr 2025 02:50:13 +0200
 
 xdg-browser-launcher (0.2.17) unstable; urgency=medium
 
